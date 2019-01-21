@@ -2,13 +2,13 @@
  * =====================================================================================
  * 
  *     Modulename:
- *       Filename:  demo_geometry.c
+ *       Filename: polyface.c
  *
  *    Description:  
  *    Corporation:
  * 
- *         Author:  gliu (), gliu@maibu.cc
- *        Created:  2014年12月11日 17时06分32秒
+ *         Author:  hong jones
+ *        Created:  2016年12月11日 17时06分32秒
  *
  * =====================================================================================
  *
