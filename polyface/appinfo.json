@@ -1,0 +1,14 @@
+{
+  "uuid": "de189bc0887c7b5766f0eea8e0f00c2a",
+  "name": "Polyline",
+  "icon": "",
+  "version": "0.0.1",
+  "watchface": "true",
+  "resources": [
+      {
+        "type": "bmp",
+        "name": "RES_BITMAP_POLY_BK",
+        "file": "polyface.bmp"
+      }
+      ]
+      }
